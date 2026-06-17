@@ -61,7 +61,7 @@ Python · Pandas · Scikit-Learn · XGBoost · LightGBM · PyTorch · Matplotlib
 └── requirements.txt
 ```
 
-## ▶️ Utilisation
+## Utilisation
 
 ```bash
 pip install -r requirements.txt
